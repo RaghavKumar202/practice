@@ -10,10 +10,7 @@
   "author": "Rahul",
   "license": "ISC",
   "dependencies": {
-<<<<<<< HEAD
     "cors": "^2.8.4",
-=======
->>>>>>> 931efff51bb787c19bd32932c678531644bd73c7
     "express": "^4.16.3"
   }
 }
